@@ -6,4 +6,18 @@ html {
     border-top: 20px solid #8A85A5;
     /*   border-top: 65px solid #2d263d */
 }
-    
+
+/***********************************************
+Body styling 
+***********************************************/
+
+body {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px 20px;
+	font-size: 1.3em;
+	line-height: 1.6em;
+    font-family: 'Open Sans', sans-serif;
+	color: #777;
+	font-weight: 300;
+}
