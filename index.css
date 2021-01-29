@@ -2,10 +2,10 @@
 Top bar color 
 ***********************************************/
 
-/* html {
-    /*   border-top: 20px solid #8A85A5; 
-	border-top: 65px solid #2d263d;
-	 */
+html {
+	border-top: 20px solid #8A85A5; 
+	/* border-top: 65px solid #2d263d; */
+}
 
 /***********************************************
 Body styling 
@@ -15,12 +15,11 @@ body {
 	/* max-width: 600px; */
 	margin: 0 auto;
 	padding: 20px 20px;
-	font-size: 1.3em;
 	line-height: 1.6em;
     font-family: 'Open Sans', sans-serif;
 	color: rgb(68, 54, 54);
 	font-weight: 300;
-	background: #61A4A4;
+	background: #abc7c7;
 }
 
 /***********************************************
@@ -28,9 +27,9 @@ Image styling
 ***********************************************/
 
 img {
-	border-radius: 10%;
-    align-content:center;
-	max-width: 80%;
+	border-radius: 18%;
+    align-content: center;
+	max-width: 600px;
 }
 
 /***********************************************
@@ -56,6 +55,7 @@ h3 {
 	font-size: .875em;
 	line-height: 1em;
 	font-weight: normal;
+	margin-bottom: 5%;
 }
 
 h4 {
@@ -63,3 +63,4 @@ h4 {
 	font-weight: 500;
     color: #564581;
 }
+
